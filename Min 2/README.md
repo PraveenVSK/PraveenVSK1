@@ -1,0 +1,2 @@
+# travel-expenses-tracking
+ This project implements a knowledge-based agent that can assist in personalised travel planning, recommending destinations, accommodations, and activities based on user preferences and budget. The agent uses a knowledge base to store information about destinations, accommodations, and activities. The agent then uses this knowledge base to filter the results based on the users preferences.
